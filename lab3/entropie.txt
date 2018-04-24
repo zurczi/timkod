@@ -1,0 +1,168 @@
+jêzyk angielski:
+
+Jêzyk angielski. Entropia znaków
+4.288221453845133
+Jêzyk angielski. Entropia s³ów
+11.544004570912472
+Jêzyk angielski. Entropia warunkowa pierwszego rzêdu
+6.389168172167574
+Jêzyk angielski. Entropia warunkowa drugiego rzêdu
+2.1764555965138697
+Jêzyk angielski. Entropia warunkowa trzeciego rzêdu
+0.48467751610886933
+
+jêzyk ³aciñski:
+
+Jêzyk ³aciñski. Entropia znaków
+4.228247465746813
+Jêzyk ³aciñski. Entropia s³ów
+11.969202934125732
+Jêzyk ³aciñski. Entropia warunkowa pierwszego rzêdu
+4.400027143976082
+Jêzyk ³aciñski. Entropia warunkowa drugiego rzêdu
+1.1668887260991054
+Jêzyk ³aciñski. Entropia warunkowa trzeciego rzêdu
+0.388040491603285
+
+esperanto:
+
+Jêzyk esperanto. Entropia znaków
+4.176788490262166
+Jêzyk esperanto. Entropia s³ów
+11.560536870551662
+Jêzyk esperanto. Entropia warunkowa pierwszego rzêdu
+6.5576740719572
+Jêzyk esperanto. Entropia warunkowa drugiego rzêdu
+2.48471629202157
+Jêzyk esperanto. Entropia warunkowa trzeciego rzêdu
+0.6336172365630373
+
+estoñski:
+
+Jêzyk estoñski. Entropia znaków
+4.169833224728489
+Jêzyk estoñski. Entropia s³ów
+13.746254776314627
+Jêzyk estoñski. Entropia warunkowa pierwszego rzêdu
+5.4241762818715396
+Jêzyk estoñski. Entropia warunkowa drugiego rzêdu
+0.9047425636358645
+Jêzyk estoñski. Entropia warunkowa trzeciego rzêdu
+0.1161965394465643
+
+somalijski:
+
+Jêzyk somalijski. Entropia znaków
+4.040113860382521
+Jêzyk somalijski. Entropia s³ów
+11.731124531545754
+Jêzyk somalijski. Entropia warunkowa pierwszego rzêdu
+5.398721482609882
+Jêzyk somalijski. Entropia warunkowa drugiego rzêdu
+1.6086163647416576
+Jêzyk somalijski. Entropia warunkowa trzeciego rzêdu
+0.4096041257772281
+
+haitañski:
+
+Jêzyk haitañski. Entropia znaków
+4.146385764101037
+Jêzyk haitañski. Entropia s³ów
+8.166944942464864
+Jêzyk haitañski. Entropia warunkowa pierwszego rzêdu
+3.19311698266309
+Jêzyk haitañski. Entropia warunkowa drugiego rzêdu
+1.311333841417281
+Jêzyk haitañski. Entropia warunkowa trzeciego rzêdu
+0.81223632036896
+
+navaho:
+
+Jêzyk navaho. Entropia znaków
+3.8749372588209434
+Jêzyk navaho. Entropia s³ów
+9.15412521158474
+Jêzyk navaho. Entropia warunkowa pierwszego rzêdu
+3.863916922163724
+Jêzyk navaho. Entropia warunkowa drugiego rzêdu
+1.718797909457703
+Jêzyk navaho. Entropia warunkowa trzeciego rzêdu
+0.8992495421907795
+
+sample0:   nie
+
+Sample0. Entropia znaków
+4.273001240566633
+Sample0. Entropia s³ów
+7.748741386140158
+Sample0. Entropia warunkowa pierwszego rzêdu
+7.486391796567459
+Sample0. Entropia warunkowa drugiego rzêdu
+4.406699749314359
+Sample0. Entropia warunkowa trzeciego rzêdu
+0.5950072737259781
+
+sample1:  tak
+
+Sample1. Entropia znaków
+4.127006135549721
+Sample1. Entropia s³ów
+11.50071591820348
+Sample1. Entropia warunkowa pierwszego rzêdu
+5.3722295401701174
+Sample1. Entropia warunkowa drugiego rzêdu
+1.5747331363659889
+Sample1. Entropia warunkowa trzeciego rzêdu
+0.5075088106886563
+
+sample2:  nie 
+
+Sample2. Entropia znaków
+3.993311800232584
+Sample2. Entropia s³ów
+8.023869815826423
+Sample2. Entropia warunkowa pierwszego rzêdu
+7.348622262350147
+Sample2. Entropia warunkowa drugiego rzêdu
+3.7819325559363395
+Sample2. Entropia warunkowa trzeciego rzêdu
+0.8595036671136258
+
+sample3:  tak
+
+Sample3. Entropia znaków
+3.930297834157987
+Sample3. Entropia s³ów
+9.061139321950034
+Sample3. Entropia warunkowa pierwszego rzêdu
+5.95020848505391
+Sample3. Entropia warunkowa drugiego rzêdu
+2.63079828243135
+Sample3. Entropia warunkowa trzeciego rzêdu
+1.2640859367940243
+
+sample4:  nie
+
+Sample4. Entropia znaków
+4.2538095673790135
+Sample4. Entropia s³ów
+17.129669110943123
+Sample4. Entropia warunkowa pierwszego rzêdu
+3.444258368343138
+Sample4. Entropia warunkowa drugiego rzêdu
+0.2340757626010437
+Sample4. Entropia warunkowa trzeciego rzêdu
+0.0032274223495286193
+
+sample5:  nie
+
+Sample5. Entropia znaków
+4.441688018481797
+Sample5. Entropia s³ów
+16.509543070990595
+Sample5. Entropia warunkowa pierwszego rzêdu
+-0.0
+Sample5. Entropia warunkowa drugiego rzêdu
+-0.0
+Sample5. Entropia warunkowa trzeciego rzêdu
+-0.0
